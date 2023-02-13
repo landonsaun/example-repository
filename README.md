@@ -1,2 +1,2 @@
 # example-repository
-this is my new example uwu pogers 
+this is my new example
